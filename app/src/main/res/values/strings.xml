@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="open_on_maps">Open on maps</string>
+    <string name="idli">Idli</string>
+    <string name="dosa">Dosa</string>
+    <string name="biriyani">Biriyani</string>
+    <string name="rasgulla">Rasgulla</string>
+    <string name="rasmalai">Rasmalai</string>
+    <string name="jagmandir">Jag Mandir</string>
+    <string name="kumbhalgarhfort">Kumbhalgarh Fort</string>
+    <string name="citypalace">City Palace</string>
+    <string name="fatehsagarlake">Fateh Sagar Lake</string>
+    <string name="ambraiamethaveli">Ambrai Amet Haveli</string>
+    <string name="lakepalace">Lake Palace</string>
+    <string name="tajmahal">Taj mahal</string>
+    <string name="qutubminar">Qutub Minar</string>
+    <string name="gateway">GateWay of India</string>
+    <string name="redfort">Red Fort</string>
+    <string name="goldentemple">Golden Temple</string>
+    <string name="lotustemple">Lotus Temple</string>
+    <string name="tomb">Humayun\'s Tomb</string>
+    <string name="ellora">Ellora caves</string>
+    <string name="tab01">Places</string>
+    <string name="tab02">Tourists Center</string>
+    <string name="tab03">Food</string>
+    <string name="img">img</string>
+    <string name="title">title</string>
+    <string name="location">location</string>
+    <string name="geo">geo:</string>
+    <string name="maps_package">com.google.android.apps.maps</string>
+    <string name="tab04">Culturals</string>
+    <string name="mewarfest">Mewar Fest</string>
+    <string name="mallculture">Mall Culture</string>
+    <string name="shilpgram">Shilpgram Fest</string>
+    <string name="gumar">Gumar Dance</string>
+    <string name="taj_loction">27.1751,78.0421</string>
+    <string name="qm_loction">28.5245,77.1855</string>
+    <string name="gt_loction">18.9219,72.8346</string>
+    <string name="red_loction">28.6562,77.2410</string>
+    <string name="golden_loction">10.8000,79.1500</string>
+    <string name="lotus_loction">19.8876,86.0945</string>
+    <string name="tomb_loction">28.5933,77.2507</string>
+    <string name="ellora_loction">20.0258,75.1780</string>
+    <string name="jag_loction">24.568590,73.677847</string>
+    <string name="kum_loction">25.154787,73.586580</string>
+    <string name="city_loction">24.576657,73.683554</string>
+    <string name="fateh_loction">24.602647,73.674235</string>
+    <string name="ambrai_loction">24.578847,73.680153</string>
+    <string name="lake_loction">24.575605,73.680102</string>
+    <string name="mewar_loction">24.602647,73.674235</string>
+    <string name="mall_loction">24.612839,73.702194</string>
+    <string name="shilpgram_loction">24.612933,73.662149</string>
+    <string name="gumar_loction">24.602647,73.674235</string>
+
+
+</resources>
